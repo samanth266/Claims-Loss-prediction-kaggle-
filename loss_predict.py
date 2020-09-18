@@ -1,4 +1,4 @@
-import pandas as pd #importing pandas library and dataframe
+Samanth changes import pandas as pd #importing pandas library and dataframe
 #linear regression technique, simple linear estimator based on dependant and independant variables
 from sklearn.linear_model import LinearRegression
 #importing data sets from kaggle and loading the csv's
